@@ -2,4 +2,6 @@ This item is going be the changes.txt for StepUp
 
 Now changed!
 
-another change!
+another change! +1
+
+implementando a busca de sku
